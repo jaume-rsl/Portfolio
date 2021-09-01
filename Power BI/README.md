@@ -5,14 +5,14 @@
 > Data downloaded from [this Kaggle dataset](https://www.kaggle.com/ajaypalsinghlo/world-happiness-report-2021)
 
 >NOTE: A new table has been created linking areas and regions. Is was added to the model to relate historical data with 2021 data as well as to fill the gaps in the original dataset.
->![Data Model](https://github.com/jaume-rsl/Portfolio/blob/a1a4ec34635316cbaab61d198baf7822d3556c3e/Power%20BI/19%20-%20Happiness%20report%20-%20Model.JPG)
+>![Data Model](https://github.com/jaume-rsl/Portfolio/blob/a1a4ec34635316cbaab61d198baf7822d3556c3e/Power%20BI/19%20-%20Happiness%20report%20-%20Model.JP)
 
 
 
 First, we want to have a look of what influences subjective happiness. Subjective happines will be measured with the Cantril Ladder, which is a score given by a person to his/her own life, based on which is the best possible life they imagine (that would score 10).
 
-![Component factors of Life Ladder](https://github.com/jaume-rsl/Portfolio/blob/e1a3bee8e8d23776d25214339cc1d313d759e0ea/Power%20BI/10%20-%20Happiness%20report%20-%20Component%20factors%20of%20Life%20Ladder.JPG)
+![Component factors of Life Ladder](https://github.com/jaume-rsl/Portfolio/blob/e1a3bee8e8d23776d25214339cc1d313d759e0ea/Power%20BI/10%20-%20Happiness%20report%20-%20Component%20factors%20of%20Life%20Ladder.JP)
 
 We can have a closer look at Cantril ladder. Fisrt, to see how the scores are distributed worldwide. Then, we can select regions and countries to see a regional distribution, the historical evolution and the latest score compared to the 2020 score as a KPI.
 
-![Life Ladder](https://github.com/jaume-rsl/Portfolio/blob/e887a6e5e6de317b629b2c4a723ab37bb49f0764/Power%20BI/11%20-%20Happiness%20report%20-%20Cantril%20Ladder.JPG)
+![Life Ladder](https://github.com/jaume-rsl/Portfolio/blob/e887a6e5e6de317b629b2c4a723ab37bb49f0764/Power%20BI/11%20-%20Happiness%20report%20-%20Cantril%20Ladder.JP)
