@@ -1,6 +1,6 @@
 # Power BI jobs
 
-## World Happiness Report Data
+## World Happiness Report Data 
 
 > Data downloaded from [this Kaggle dataset](https://www.kaggle.com/ajaypalsinghlo/world-happiness-report-2021)
 
