@@ -5,7 +5,7 @@
 > Data downloaded from [this Kaggle dataset](https://www.kaggle.com/ajaypalsinghlo/world-happiness-report-2021)
 
 >NOTE: A new table has been created linking areas and regions. Is was added to the model to relate historical data with 2021 data as well as to fill the gaps in the original dataset.
->![Data Model](https://github.com/jaume-rsl/Portfolio/blob/a1a4ec34635316cbaab61d198baf7822d3556c3e/Power%20BI/19%20-%20Happiness%20report%20-%20Model.JPG)
+>![Data Model](https://github.com/jaume-rsl/Portfolio/blob/44fcd45e2b22d2e78d0a5d8a126fe2da39ee98e8/Power%20BI/19%20-%20Happiness%20report%20-%20Model.JPG)
 
 
 
@@ -15,7 +15,7 @@ First, we want to have a look of what influences subjective happiness. Subjectiv
 
 We can have a closer look at Cantril ladder. Fisrt, to see how the scores are distributed worldwide. Then, we can select regions and countries to see a regional distribution, the historical evolution and the latest score compared to the 2020 score as a KPI.
 
-![Life Ladder](https://github.com/jaume-rsl/Portfolio/blob/e887a6e5e6de317b629b2c4a723ab37bb49f0764/Power%20BI/11%20-%20Happiness%20report%20-%20Cantril%20Ladder.JPG)
+![Life Ladder](https://github.com/jaume-rsl/Portfolio/blob/44fcd45e2b22d2e78d0a5d8a126fe2da39ee98e8/Power%20BI/11%20-%20Happiness%20report%20-%20Cantril%20Ladder.JPG)
 
 Let's look at some KPIs
 
