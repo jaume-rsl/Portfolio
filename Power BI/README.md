@@ -7,7 +7,7 @@
 >NOTE: Two new table has been created linking areas and regions. One is was added to the model to relate historical data with 2021 data as well as to fill the gaps in the original dataset.
 >The other one, merges the historical data and 2021 data to netter represent some insights
 
->'''
+'''
 Indexes 2021 = SELECTCOLUMNS('world-happiness-report-2021',
                 "Country Name", 'world-happiness-report-2021'[Country name],
                 "Freedom to make life choices", 'world-happiness-report-2021'[Freedom to make life choices],
