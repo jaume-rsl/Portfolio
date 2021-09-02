@@ -7,7 +7,7 @@
 >NOTE: Two new table has been created linking areas and regions. One is was added to the model to relate historical data with 2021 data as well as to fill the gaps in the original dataset.
 >The other one, merges the historical data and 2021 data to netter represent some insights
 
-'''
+```DAX
 Indexes 2021 = SELECTCOLUMNS('world-happiness-report-2021',
                 "Country Name", 'world-happiness-report-2021'[Country name],
                 "Freedom to make life choices", 'world-happiness-report-2021'[Freedom to make life choices],
@@ -19,7 +19,7 @@ Indexes 2021 = SELECTCOLUMNS('world-happiness-report-2021',
                 "Social support", 'world-happiness-report-2021'[Social support],
                 "year", "2021"
                 )
-'''
+```
 
 >![Data Model](https://github.com/jaume-rsl/Portfolio/blob/44fcd45e2b22d2e78d0a5d8a126fe2da39ee98e8/Power%20BI/19%20-%20Happiness%20report%20-%20Model.JPG)
 
