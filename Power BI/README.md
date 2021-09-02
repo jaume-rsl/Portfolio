@@ -19,8 +19,6 @@
                 "Social support", 'world-happiness-report-2021'[Social support],
                 "year", "2021"
                 )
->
->
 >'''
 
 >![Data Model](https://github.com/jaume-rsl/Portfolio/blob/44fcd45e2b22d2e78d0a5d8a126fe2da39ee98e8/Power%20BI/19%20-%20Happiness%20report%20-%20Model.JPG)
