@@ -1,3 +1,11 @@
+# Table of contents
+1. [World Happiness Report Data](#World Happiness Report Data)
+2. [Some random securized screenshots](#Some random securized screenshots)
+    1. [COVID impact in my reporting area](#COVID impact in my reporting area)
+    2. [Other interesting dashboards](#Other interesting dashboards)
+
+
+
 # World Happiness Report Data
 
 > Data downloaded from [this Kaggle dataset](https://www.kaggle.com/ajaypalsinghlo/world-happiness-report-2021)
