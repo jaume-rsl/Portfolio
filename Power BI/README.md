@@ -1,5 +1,5 @@
 # Table of contents
-1. [World Happiness Report Data](#World Happiness Report Data)
+1. [World Happiness Report Data](#World-Happiness-Report-Data)
 2. [Some random securized screenshots](#Some random securized screenshots)
     1. [COVID impact in my reporting area](#COVID impact in my reporting area)
     2. [Other interesting dashboards](#Other interesting dashboards)
