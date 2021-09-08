@@ -8,7 +8,8 @@
 >It's also added a table which includes historical data and 2021 data for analysis purposes.
 >![Data Model](https://github.com/jaume-rsl/Portfolio/blob/44fcd45e2b22d2e78d0a5d8a126fe2da39ee98e8/Power%20BI/19%20-%20Happiness%20report%20-%20Model.JPG)
 
-
+We have a healthy dataset here, even if I don't like voids...
+![Data Health](https://github.com/jaume-rsl/Portfolio/blob/8b5ada711d3bb4633ce11f3a38e28575baa5d08d/Power%20BI/18%20-%20Dataset%20Health.jpg)
 
 First, we want to have a look of what influences subjective happiness. Subjective happines will be measured with the Cantril Ladder, which is a score given by a person to his/her own life, based on which is the best possible life they imagine (that would score 10).
 
