@@ -1,11 +1,13 @@
 # Table of contents
-**Data visualizations and analysis examples**
+[**DATA VISUALIZATION AND ANALYSIS WORKS**](#World-Happiness-Report-Data)
 1. [World Happiness Report Data](#World-Happiness-Report-Data)
 2. [Some random securized screenshots](#Some-random-securized-screenshots)
     1. [COVID impact in my reporting area](#COVID-impact-in-my-reporting-area)
     2. [Other interesting dashboards](#Other-interesting-dashboards)
 
-**Data extraction and modelling**
+**DATA EXTRACTION AND MODELLING**
+1. SQL Server
+2. Azure Cosmos DB (NoSQL)
 
 
 # Data visualizations and analysis examples
