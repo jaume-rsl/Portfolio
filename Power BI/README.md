@@ -1,16 +1,17 @@
 # Table of contents
-[**DATA VISUALIZATION AND ANALYSIS WORKS**](#World-Happiness-Report-Data)
+[**DATA VISUALIZATION AND ANALYSIS**](#Data-Visualization-and-Analysis)
 1. [World Happiness Report Data](#World-Happiness-Report-Data)
 2. [Some random securized screenshots](#Some-random-securized-screenshots)
     1. [COVID impact in my reporting area](#COVID-impact-in-my-reporting-area)
     2. [Other interesting dashboards](#Other-interesting-dashboards)
 
-**DATA EXTRACTION AND MODELLING**
+<!--
+[**DATA EXTRACTION AND MODELLING (Power Query)**](#Data-Extraction-and-Modelling)
 1. SQL Server
 2. Azure Cosmos DB (NoSQL)
+-->
 
-
-# Data visualizations and analysis examples
+# Data Visualization and Analysis
 ## World Happiness Report Data
 
 > Data downloaded from [this Kaggle dataset](https://www.kaggle.com/ajaypalsinghlo/world-happiness-report-2021)
