@@ -1,12 +1,15 @@
 # Table of contents
+# Data visualizations and analysis examples
 1. [World Happiness Report Data](#World-Happiness-Report-Data)
 2. [Some random securized screenshots](#Some-random-securized-screenshots)
     1. [COVID impact in my reporting area](#COVID-impact-in-my-reporting-area)
     2. [Other interesting dashboards](#Other-interesting-dashboards)
 
+# Data extraction and modelling
 
 
-# World Happiness Report Data
+# Data visualizations and analysis examples
+## World Happiness Report Data
 
 > Data downloaded from [this Kaggle dataset](https://www.kaggle.com/ajaypalsinghlo/world-happiness-report-2021)
 
@@ -29,8 +32,8 @@ Let's look at some KPIs
 
 ![KPIs](https://github.com/jaume-rsl/Portfolio/blob/6db2b744645a68ee3ff0dd26e32bde66bf8fbc74/Power%20BI/12%20-%20Happiness%20report%20-%20KPIs.JPG)
 
-# Some random securized screenshots
-## COVID impact in my reporting area
+## Some random securized screenshots
+### COVID impact in my reporting area
 
 In the first place the model, linking some tables stored in Sharepoint Server
 ![COVID Model](https://github.com/jaume-rsl/Portfolio/blob/84ed9b8a345c81babc9a3795a6f473313981805c/Power%20BI/08%20-%20COVID%20-%20Modelo%20-%20SEC.jpg)
@@ -38,7 +41,7 @@ In the first place the model, linking some tables stored in Sharepoint Server
 And then the data visualization
 ![COVID Map](https://github.com/jaume-rsl/Portfolio/blob/84ed9b8a345c81babc9a3795a6f473313981805c/Power%20BI/07%20-%20COVID%20-%20Mapa%20-%20SEC.jpg)
 
-## Other interesting dashboards
+### Other interesting dashboards
 Near real-time monitoring of allocated credit and current expenses:
 ![Creditos](https://github.com/jaume-rsl/Portfolio/blob/84ed9b8a345c81babc9a3795a6f473313981805c/Power%20BI/06%20-%20CREDITOS%20-%20SEC.jpeg)
 
