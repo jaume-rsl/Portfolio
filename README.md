@@ -18,4 +18,4 @@ The same is true here. If possible, I will publish the .xlsx. Otherwise, just so
 
 Check my [Kaggle notebooks](https://www.kaggle.com/jaumerossello/code) in which I publish all my progress. For now, you will find:
 
-1. [Student Performance Analysis](https://www.kaggle.com/jaumerossello/students-performance-analysis). In which I use Python libraries `pandas` and `seaborn` to gain insights about a Kaggle dataset on students and how they perform in a series of math and language tests.
+1. [Student Performance Analysis](https://www.kaggle.com/jaumerossello/students-performance-analysis). In which I use Python libraries `pandas` and `seaborn` to gain insights into students performance in a series of math and language tests.
