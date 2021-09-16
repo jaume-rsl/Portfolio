@@ -12,3 +12,10 @@ The intent is to share .pbix files, so you can access the whole dataset and make
 ## [Excel](https://github.com/jaume-rsl/Portfolio/tree/main/Excel)
 
 The same is true here. If possible, I will publish the .xlsx. Otherwise, just some securized screenshots.
+
+
+## Python
+
+Check my [Kaggle notebooks](https://www.kaggle.com/jaumerossello/code) in which I publish all my progress. For now, you will find:
+
+1. [Student Performance Analysis](https://www.kaggle.com/jaumerossello/students-performance-analysis)
