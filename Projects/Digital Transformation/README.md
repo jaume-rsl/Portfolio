@@ -1,4 +1,5 @@
-## Digital Transformation and Knowledge management (2020-current)
+## Digital Transformation and Knowledge management (2020-current)&nbsp;&nbsp;&nbsp; ![under_construction](https://github.com/jaume-rsl/jaume-rsl/blob/d2fe9e9e4d973e7dbbc99aa49dacb8dc324e8039/images/under_construction.png) 
+
 In my current position, in addition to my logistics analysis duties, I'm leading a mid-term project of digital transformation.
 Since forever, I've been thinking that my organization is not using the technology properly. But lately, the amount of required information, the need for speed, and the data intoxication, made me aware of the urgency of a digital transformation to meet the needs of flexibility and leadership that the military demands. 
 In 2016 I accessed the directive level so I had the opportunity to empower a true digital mindset across my area of influence.
