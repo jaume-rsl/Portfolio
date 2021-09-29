@@ -19,6 +19,10 @@ My role is some mixture of Product Owner and Scrum Master, but being a servant-l
 
 ![Governance](https://github.com/jaume-rsl/Portfolio/blob/7a16ec22f239dd1b5eaa2ae8554d9b15bbf5021f/Projects/Digital%20Transformation/images/02%20-%20Governance.jpg)
 
+I took respoonsibility for the backlog of MAAA 4.0 (such was the name decided for the product, which was the future "digital organization" we aimed at). The tool used for controlling the workflow is a Kanban board, plus some not-very-strict limitations of the WIP (work in progress), a must since there are times in which the developments are haulted due to external actors impossible to engage.
+
+![Kanban Board](https://github.com/jaume-rsl/Portfolio/blob/d3425599ab5836b8eeaa58adb8524b43c25f41a8/Projects/Digital%20Transformation/images/03%20-%20Board.jpg)
+
 ### Digital processess
 ### Digital Training/Coaching
 ### Knowledge Management
