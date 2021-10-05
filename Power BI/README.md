@@ -67,8 +67,7 @@ Año = YEAR('Date'[Date])
 ```
 Quarter:
 ```DAX
-Trimestre = 
-    "T-" & QUARTER('Date'[Date])
+Trimestre = FORMAT('Date'[Date], "\T- Q" )
 ```
 Month number:
 ```DAX
