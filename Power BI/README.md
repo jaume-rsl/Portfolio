@@ -50,3 +50,10 @@ Near real-time monitoring of allocated credit and current expenses:
 
 A time-series dataset extracted form SSAS (SQL Server Analytics Service) with custom KPI and basic forecasted trend:
 ![Trend](https://github.com/jaume-rsl/Portfolio/blob/84ed9b8a345c81babc9a3795a6f473313981805c/Power%20BI/09%20-%20Bulk%20data%20time%20series,%20KPI%20and%20trend.jpg)
+
+# DAX Snippets
+## Calendar
+My favourite calendar table
+```DAX
+Dates = CALENDARAUTO()
+```
