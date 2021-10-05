@@ -5,6 +5,8 @@
     1. [COVID impact in my reporting area](#COVID-impact-in-my-reporting-area)
     2. [Other interesting dashboards](#Other-interesting-dashboards)
 
+[**DAX Snippets**](#DAX-Snippets)
+
 <!--
 [**DATA EXTRACTION AND MODELLING (Power Query)**](#Data-Extraction-and-Modelling)
 1. SQL Server
@@ -53,7 +55,41 @@ A time-series dataset extracted form SSAS (SQL Server Analytics Service) with cu
 
 # DAX Snippets
 ## Calendar
-My favourite calendar table
+My favourite calendar table.  
+Table init.
 ```DAX
-Dates = CALENDARAUTO()
+Date = CALENDARAUTO()
+```
+Year:
+```DAX
+Año = YEAR('Date'[Date])
+```
+Quarter:
+```DAX
+Trimestre = 
+    "T-" & QUARTER('Date'[Date])
+```
+Month number:
+```DAX
+Mes_num = MONTH('Date'[Date])
+```
+Month name:
+```DAX
+Mes_txt = FORMAT('Date'[Date], "MMM")
+```
+Day number:
+```DAX
+Dia_num = DAY('Date'[Date])
+```
+Weekday number (starting on Monday, I'm Spanish)
+```DAX
+Dia_semana_num = WEEKDAY('Date'[Date], 2)
+```
+Day name:
+```DAX
+Dia_txt = FORMAT('Date'[Date],"dddd")
+```
+Week number (again, starting on Monday):
+```DAX
+Semana = WEEKNUM('Date'[Date], 2)
 ```
