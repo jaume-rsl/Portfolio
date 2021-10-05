@@ -5,7 +5,8 @@
     1. [COVID impact in my reporting area](#COVID-impact-in-my-reporting-area)
     2. [Other interesting dashboards](#Other-interesting-dashboards)
 
-[**DAX Snippets**](#DAX-Snippets)
+[**DAX SNIPPETS**](#DAX-Snippets)
+1. [Calendar Table](#Calendar-table)
 
 <!--
 [**DATA EXTRACTION AND MODELLING (Power Query)**](#Data-Extraction-and-Modelling)
@@ -54,7 +55,7 @@ A time-series dataset extracted form SSAS (SQL Server Analytics Service) with cu
 ![Trend](https://github.com/jaume-rsl/Portfolio/blob/84ed9b8a345c81babc9a3795a6f473313981805c/Power%20BI/09%20-%20Bulk%20data%20time%20series,%20KPI%20and%20trend.jpg)
 
 # DAX Snippets
-## Calendar
+## Calendar table
 My favourite calendar table.  
 Table init.
 ```DAX
