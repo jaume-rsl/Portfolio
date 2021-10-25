@@ -15,7 +15,7 @@ My organization is a distributed unit across Spain, and I wanted to use agile me
 I ended with a hybrid governance design:
 I chose Scrum+Kanban to lead a team of 9 "paladins" every sub-unit chose for digitalizing the processes.
 The sprints are long, 1 month, but the organizations each one of them represents have an analog mindset, so I assumed they would operate in a traditional way. Being so, they needed time to plan and execute.
-My role is some mixture of Product Owner and Scrum Master, but being a servant-leader and goal-oriented, I feel comforable with it. 
+My role is some mixture of Product Owner and Scrum Master, but being a servant-leader and goal-oriented, I feel comforable with it.
 
 ![Governance](https://github.com/jaume-rsl/Portfolio/blob/7a16ec22f239dd1b5eaa2ae8554d9b15bbf5021f/Projects/Digital%20Transformation/images/02%20-%20Governance.jpg)
 
