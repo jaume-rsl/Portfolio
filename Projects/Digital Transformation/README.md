@@ -24,6 +24,10 @@ I took respoonsibility for the backlog of MAAA 4.0 (such was the name decided fo
 ![Kanban Board](https://github.com/jaume-rsl/Portfolio/blob/d3425599ab5836b8eeaa58adb8524b43c25f41a8/Projects/Digital%20Transformation/images/03%20-%20Board.jpg)
 
 ### Digital processess
+I lead the modelling through BPMN of the analog processess (As-Is) and how they will be digitally implemented (To-Be). I can do modelling but I can also teach and coach on how to model. The result is a growing database of modeled processes, documenting the project goals in process reengineering.
+
+![Modelling](https://github.com/jaume-rsl/Portfolio/blob/ad989d1747cc849985c7be8abf55de92813caede/Projects/Digital%20Transformation/images/04%20-%20Modelado.jpg)
+
 ### Digital Training/Coaching
 ### Knowledge Management
 ### Digital reporting
