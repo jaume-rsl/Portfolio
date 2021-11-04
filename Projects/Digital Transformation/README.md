@@ -30,7 +30,9 @@ I lead the modelling through BPMN of the analog processess (As-Is) and how they 
 
 ### Digital Training/Coaching
 A big part of my project is to train those who "have born analog".  
+
 The main part of the training consists of helping individuals to fully understand the tools they already use (like Excel, Outlook, a network shared drive or a Sharepoint site). This enables them to be much more productive with a very small effort. At this stage is usually when people fully understand that they need to go digital, and hence I find truly engaged individuals who support the project.  
+
 Once the kick-start is achieved, I guide them in upskilling. Some times I do "pills", some times I refer them to on-line resources, other times I need to do an on-line training explaining the procedures or tools that I will put in place for them.
 
 ### Knowledge Management
