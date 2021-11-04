@@ -15,7 +15,7 @@ My organization is a distributed unit across Spain, and I wanted to use agile me
 I ended with a hybrid governance design:
 I chose Scrum+Kanban to lead a team of 9 "paladins" every sub-unit chose for digitalizing the processes.
 The sprints are long, 1 month, but the organizations each one of them represents have an analog mindset, so I assumed they would operate in a traditional way. Being so, they needed time to plan and execute.
-My role is some mixture of Product Owner and Scrum Master, but being a servant-leader and goal-oriented, I feel comforable with it.
+My role is some mixture of Product Owner and Scrum Master, but being a servant-leader and goal-oriented, I feel comforable with it.  
 
 ![Governance](https://github.com/jaume-rsl/Portfolio/blob/7a16ec22f239dd1b5eaa2ae8554d9b15bbf5021f/Projects/Digital%20Transformation/images/02%20-%20Governance.jpg)
 
@@ -29,5 +29,9 @@ I lead the modelling through BPMN of the analog processess (As-Is) and how they 
 ![Modelling](https://github.com/jaume-rsl/Portfolio/blob/ad989d1747cc849985c7be8abf55de92813caede/Projects/Digital%20Transformation/images/04%20-%20Modelado.jpg)
 
 ### Digital Training/Coaching
+A big part of my project is to train those who "have born analog".  
+The main part of the training consists of helping individuals to fully understand the tools they already use (like Excel, Outlook, a network shared drive or a Sharepoint site). This enables them to be much more productive with a very small effort. At this stage is usually when people fully understand that they need to go digital, and hence I find truly engaged individuals who support the project.  
+Once the kick-start is achieved, I guide them in upskilling. Some times I do "pills", some times I refer them to on-line resources, other times I need to do an on-line training explaining the procedures or tools that I will put in place for them.
+
 ### Knowledge Management
 ### Digital reporting
