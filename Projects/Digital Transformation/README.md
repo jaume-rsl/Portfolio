@@ -51,6 +51,6 @@ Pushing hard to fight the resistance to change, and with the leadership of the m
 ### Digital reporting
 With the aim to remove all possible bureaucracy and to make more data-driven decisions, a BI reporting system is being put in place to replace the traditional reporting.
 
-As soon as a process is digital, a Power BI report is designed to answer the questions that the decision-makers have. You can check out some of the reports in the Power BI or Excel sections.
+As soon as a process is digital, a Power BI report is designed to answer the questions that the decision-makers have. You can check out some of the reports in the [Power BI](https://github.com/jaume-rsl/Portfolio/blob/4f2cb8b5e4dbfd45ecd63e1a99d6aabcc889cb9a/Power%20BI/README.md) or [Excel](https://github.com/jaume-rsl/Portfolio/blob/4f2cb8b5e4dbfd45ecd63e1a99d6aabcc889cb9a/Excel/README.md) sections.
 
 Since decision-makers and stakeholders are highly correlated, this helps even more to fight the friction (or the resistance to change). Once they try automated data-driven reports, they don't want to hear about traditional reporting anymore, since they realize that the speed and accuracy of traditional reporting is much worse.
