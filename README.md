@@ -14,7 +14,7 @@ The intent is to share .pbix files, so you can access the whole dataset and make
 The same is true here. If possible, I will publish the .xlsx. Otherwise, just some securized screenshots.
 
 
-## [Python](https://www.kaggle.com/jaumerossello/code)&nbsp;&nbsp; ![](https://img.shields.io/badge/assessed__level-Working%20on%20it-yellow?style=plastic&logo=python)
+## [Python](https://www.kaggle.com/jaumerossello/code)&nbsp;&nbsp; ![](https://img.shields.io/badge/assessed__level-Quite%20Good!-green?style=plastic&logo=python)
 
 Check my [Kaggle notebooks](https://www.kaggle.com/jaumerossello/code) in which I publish all my progress. For now, you will find:
 
