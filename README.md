@@ -9,7 +9,7 @@ You will find in this repo several folders, depending on which technology is use
 
 The intent is to share .pbix files, so you can access the whole dataset and make good use of the report/dashboard. In case some data is business sensitive I will securize it and publish just some screenshots.
 
-## [Excel](https://github.com/jaume-rsl/Portfolio/tree/main/Excel)&nbsp;&nbsp; ![](https://img.shields.io/badge/assessed__level-Fully-Skilled-success?style=plastic&logo=microsoftexcel)
+## [Excel](https://github.com/jaume-rsl/Portfolio/tree/main/Excel)&nbsp;&nbsp; ![](https://img.shields.io/badge/assessed__level-Fully%20Skilled-success?style=plastic&logo=microsoftexcel)
 
 The same is true here. If possible, I will publish the .xlsx. Otherwise, just some securized screenshots.
 
