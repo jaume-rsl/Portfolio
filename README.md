@@ -19,3 +19,7 @@ The same is true here. If possible, I will publish the .xlsx. Otherwise, just so
 Check my [Kaggle notebooks](https://www.kaggle.com/jaumerossello/code) in which I publish all my progress. For now, you will find:
 
 1. [Student Performance Analysis](https://www.kaggle.com/jaumerossello/students-performance-analysis). In which I use Python libraries `pandas` and `seaborn` to gain insights into students performance in a series of math and language tests.
+2. [Bike Sales](https://www.kaggle.com/code/jaumerossello/dc-bike-sales). Discovering `Plotly` as a great `Python` library to make interactive plots. 
+3. [Accidents in UK](https://www.kaggle.com/code/jaumerossello/dc-accidents-in-uk). A test on `R` and its capabilities. `tidyverse`, `dplyr` and `ggplot2` are super-powerful tools. Love them!
+4. [Employee Turnover Analysis](https://www.kaggle.com/code/jaumerossello/take-care-of-your-employees). My first full analysis for a DataCamp Competition, truly motivating and exportable to any organization! Check it out!
+5. [Plotting the J-way](https://www.kaggle.com/code/jaumerossello/plotting-the-j-way). My first `bronze medal` in a Kaggle Notebook. Just storing my preferred settings for every useful plot aroud there with `matplotlib`, `seaborn` and `Plotly` libraries in `Python`.
